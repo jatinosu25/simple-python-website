@@ -1,4 +1,4 @@
-# Simple Python Website Project 2025 Dec
+# Simple Python Website Project 2025
 
 ## General
 This is a [Simple Python Website Project](https://github.com/darumor/simple-python-website) that can be used for prototyping modern web services. 
